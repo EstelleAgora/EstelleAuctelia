@@ -1,5 +1,5 @@
 {
-  "name": "estelleagora",
+  "name": "EstelleAgora/EstelelAuctelia",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC", 
   "publishConfig": {
-  "estelleagora:registry": "https://npm.pkg.github.com"
+  "EstelelAgora:registry": "https://npm.pkg.github.com"
 }
 }
