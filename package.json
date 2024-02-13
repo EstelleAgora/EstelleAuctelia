@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC", 
   "publishConfig": {
-  "EstelleAuctelia:registry": "https://npm.pkg.github.com"
+  "EstelleAgora:registry": "https://npm.pkg.github.com"
 }
 }
